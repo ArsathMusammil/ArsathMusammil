@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arsath Musammil</h1>
 <h3 align="center">A passionate UI/UX DESIGNER from India</h3>
-
-<img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsathmusammil&label=Profile%20views&color=0e75b6&style=flat" alt="arsathmusammil" /> </p>
 
@@ -21,10 +20,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arsath-musammil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arsath-musammil/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/arsathmusammil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/arsathmusammil" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/arsathmusammil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/arsathmusammil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/arsathmusammil/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/arsathmusammil/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arsath-musammil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arsath-musammil" height="30" width="40" /></a>
+<a href="https://instagram.com/_dream._traveller._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_dream._traveller._" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/arsathmusammil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arsathmusammil" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arsathmusammil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="arsathmusammil" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/arsathmusammil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arsathmusammil" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
